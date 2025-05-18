@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c2201393-d7cf-42af-9d06-643fd3efedaf" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Histoire de Mouscron/html/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Histoire de Mouscron/html/src/html/Célébrités.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Histoire de Mouscron/html/src/html/Histoire.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Histoire de Mouscron/html/src/html/Telechargement.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Histoire de Mouscron/html/src/media/img/jpg/mouscron1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Histoire de Mouscron/html/src/media/img/jpg/mouscron2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Histoire de Mouscron/html/src/style/style_base.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Histoire de Mouscron/html/src/style/style_hist.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/src/media/Thumbs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/src/media/images/Thumbs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/src/media/images/code/css/style_base.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/src/media/images/code/doc/énoncé de l'exercice.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/src/media/images/code/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/src/media/images/code/moto2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/src/media/images/code/voitures/voiture1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/src/media/images/voiture2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/src/media/moto1.bmp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2saP3EZU81LzRt6B7Zkc8HwIDgQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/run/media/trouveme/9C33-6BBD/Code/Les Voiture",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-822845ee3bb5-JavaScript-WS-243.23654.157" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c2201393-d7cf-42af-9d06-643fd3efedaf" name="Changes" comment="" />
+      <created>1738690510841</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1738690510841</updated>
+      <workItem from="1738690512018" duration="6914000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
